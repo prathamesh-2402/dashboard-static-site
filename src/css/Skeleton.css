@@ -1,0 +1,41 @@
+.ant-layout, .site-layout{
+    background-color: #F3F6FD;
+}
+
+.ant-menu-inline .ant-menu-item::after{
+    border-right: none ;
+}
+
+.welcomecard{
+    height:5rem;
+    width: 80%;
+    border-radius: 5px;
+}
+
+.ant-card-body{
+    padding: 0;
+    margin-right: 1rem;
+}
+
+.welcome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.downloadbtn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0;
+}
+
+.week{
+    display: flex;
+    align-items: center;
+}
+.last{
+    margin-bottom: 0;
+    margin-right: 0.4rem;
+    color: #3672E9;
+}

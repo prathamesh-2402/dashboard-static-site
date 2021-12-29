@@ -1,0 +1,16 @@
+.graphtabs{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+.active{
+    background-color: #D3E2FF;
+    border-radius: 3px;
+    padding: 0.2rem;
+}
+.light{
+    color:#B7B6B6;
+    margin-bottom: 0;
+}
