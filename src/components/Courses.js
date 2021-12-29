@@ -45,7 +45,7 @@ function Courses({ showEmp, show, title }) {
             >
               Employee
             </h1>
-            <img src="lastar.svg" />
+            <img src="arrowoutlined.svg" />
           </div>}
       </div>
       {show && (
