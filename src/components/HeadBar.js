@@ -11,7 +11,7 @@ const HeadBar = () => {
             <img style={{marginRight:"5.8rem"}} src="./logo.svg" />
             {/* <Dropdown > */}
             <Button type="primary">
-                Button <DownOutlined />
+                Explore <DownOutlined />
             </Button>
             {/* </Dropdown> */}
             <div className="searchbar">
